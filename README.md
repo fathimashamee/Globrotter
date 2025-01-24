@@ -19,7 +19,7 @@ A mobile application designed to help tourists navigate and explore the cultural
   6. Android Compass API: For implementing the compass feature.
 
 # How to Run the Project 
-  1. Clone the Repository: git clone https://github.com/YourUsername/Self-Help-Tourism-App.git
+  1. Clone the Repository: git clone https://github.com/YourUsername/Self-Help-Tourism-App.git](https://github.com/fathimashamee/Globrotter.git
   2. Open the Project in Android Studio:
      Make sure Android Studio is installed.
      Open the project folder in Android Studio.
